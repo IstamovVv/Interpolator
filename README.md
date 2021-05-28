@@ -7,9 +7,9 @@ The vertical line of the cursor is magnetized to the points of the interpolated 
 
 ## Realization
 
-** The interface provided by QT framework.
-** Graphics are drawn using OpenGL.
-** Lagrange Polynomial is used to interpolate.
+### The interface provided by QT framework.
+### Graphics are drawn using OpenGL.
+### Lagrange Polynomial is used to interpolate.
 
 ## Screenshots
 
